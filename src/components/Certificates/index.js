@@ -2,12 +2,12 @@ import React from "react";
 import { Col, Container, Image, Row } from "react-bootstrap";
 
 const certificates = [
-  "https://storage.googleapis.com/rakabucket-startup/FE-1.jpg",
-  "https://storage.googleapis.com/rakabucket-startup/FE-2.jpg",
-  "https://storage.googleapis.com/rakabucket-startup/FE-3.jpg",
-  "https://storage.googleapis.com/rakabucket-startup/BE-1.jpg",
-  "https://storage.googleapis.com/rakabucket-startup/BE-2.jpg",
-  "https://storage.googleapis.com/rakabucket-startup/BE-3.jpg",
+  "https://storage.googleapis.com/rakasiwisurya-bucket/FE-1.jpg",
+  "https://storage.googleapis.com/rakasiwisurya-bucket/FE-2.jpg",
+  "https://storage.googleapis.com/rakasiwisurya-bucket/FE-3.jpg",
+  "https://storage.googleapis.com/rakasiwisurya-bucket/BE-1.jpg",
+  "https://storage.googleapis.com/rakasiwisurya-bucket/BE-2.jpg",
+  "https://storage.googleapis.com/rakasiwisurya-bucket/BE-3.jpg",
 ];
 
 const Certificates = () => {

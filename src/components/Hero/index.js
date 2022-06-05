@@ -7,7 +7,7 @@ const Hero = () => {
       <Container className="d-flex justify-content-center">
         <div className="d-flex flex-column align-items-center">
           <Image
-            src="https://storage.googleapis.com/rakabucket-startup/pasfoto-whitebg.png"
+            src="https://storage.googleapis.com/rakasiwisurya-bucket/pasfoto-whitebg.png"
             alt="Photo Profile"
             width={200}
             roundedCircle
